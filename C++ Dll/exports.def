@@ -1,0 +1,8 @@
+LIBRARY "kbhookdll"
+
+EXPORTS
+
+  SetHook            
+  RemoveHook         
+  CheckKey		 
+	 
